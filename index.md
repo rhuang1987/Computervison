@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+Rui Huang currently is a lecture of Computer Science and Technology, Civial Aviation University of China. His research insterets are saliency detection, co-saliency detection, change detection.
 
-You can use the [editor on GitHub](https://github.com/rhuang1987/computervison/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Conference papers:
+
+Journal papers:
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
