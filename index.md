@@ -79,26 +79,21 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2018.
 <strong>"Learning to Detect Fine-Grained Change under Variant Imaging Conditions"</strong>, <br>
 Rui Huang, Wei Feng*, Zezheng Wang, Minyuan Fan, Liang Wan, Jizhou Sun, <br>	
 International Conference on Computer Vision Workshop on E-Heritage, 2017.  
-<a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a></li>
+<a href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w42/Huang_Learning_to_Detect_ICCV_2017_paper.pdf" target="_blank">[PDF]</a> </li>
 
 
 <li>
 <strong>"Exemplar based image saliency object detection"</strong>, <br> 
 Zezheng Wang, <ud>Rui Huang*</ud>, Liang Wan, Wei Feng,  <br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2017. 
-<a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a>
+<a href="https://www.researchgate.net/publication/312146344_Exemplar_based_Image_Salient_Object_Detection" target="_blank">[PDF]</a> 
 </li>
 
 <li> 
 <strong>"Saliency and co-saliency detection by low-rank multiscale fusion"</strong>, <br>
 Rui Huang, Wei Feng*, Jizhou Sun,<br>	
 IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015.  
-<a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a>
+<a href="https://www.researchgate.net/publication/273766216_Saliency_and_Co-Saliency_Detection_by_Low-Rank_Multiscale_Fusion" target="_blank">[PDF]</a> 
 </li>
 
 
@@ -115,15 +110,14 @@ IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015
 <strong>"RGB-D Salient Object Detection by a CNN With Multiple Layers Fusion"</strong>, <br>
 Rui Huang, Yan Xing, Zezheng Wang,<br>	
 IEEE Signal Processing Letters (<strong>SPL</strong>), 2019.  
-<a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a>
+<a href="https://ieeexplore.ieee.org/document/8638984" target="_blank">[PDF]</a> 
 </li>
 
 <li> 
 <strong>"Multiscale Blur Detection by Learning Discriminative Deep Features"</strong>, <br>
 Rui Huang, Wei Feng*, Mingyuan Fan, Liang Wan, Jizhou Sun，<br>	
 Neurocomputing, 2018.  
-<a href="" target="_blank">[PDF]</a> 
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231218300602" target="_blank">[PDF]</a> 
 <a href="" target="_blank">[Project]</a>
 <a href="" target="_blank"><font color="#E74C3C">[Code]</font></a></li>
 
@@ -133,8 +127,7 @@ Neurocomputing, 2018.
 Rui Huang, Wei Feng*, Jizhou Sun, <br>
 IEEE Signal Processing Letters (<strong>SPL</strong>), 2017. 
 <a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a>
+<a href=链接：https://pan.baidu.com/s/1SmpgGOuqJxWLTGd2j4r8OQ" target="_blank">[Code 提取码：6qby ]</a>
 </li>
 
 
@@ -142,9 +135,7 @@ IEEE Signal Processing Letters (<strong>SPL</strong>), 2017.
 <strong>"Learning multi-path CNN for mural deterioration detection"</strong>, <br> 
 Rui Huang, Wei Feng*, Mingyuan Fan, Qing Guo, Jizhou Sun, <br>
 Journal of Ambient Intelligence and Humanized Computing, 2017. 
-<a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a>
+<a href="https://link.springer.com/article/10.1007%2Fs12652-017-0656-4" target="_blank">[PDF]</a> 
 </li>
 
 <li>
