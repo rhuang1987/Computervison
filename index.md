@@ -172,6 +172,5 @@ Journal of Ambient Intelligence and Humanized Computing, 2017.
 </section>
 
 </div>
-<script src="javascripts/scale.fix.js"></script>
 </body>
 </html>
