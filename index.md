@@ -1,10 +1,7 @@
-
-<!doctype html>
 <html>
 <head>
 <meta charset="gbk"><!--utf-8-->
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<title>Homepage of Rui Huang</title>
 
 <link rel="stylesheet" href="stylesheets/styles.css">
 <link rel="stylesheet" href="stylesheets/pygment_trac.css">
