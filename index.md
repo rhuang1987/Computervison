@@ -60,7 +60,7 @@ Welcome to send me your detailed resume!
 
 
 <h3>
-<a id="Paper-pages" class="anchor" href="#Paper-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications: </a></h3>
+<a id="Paper-pages" class="anchor" href="#Paper-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications: </h3>
 
 <h4><ud>Conference paper:</ud></h4>
 
@@ -164,7 +164,6 @@ Journal of Ambient Intelligence and Humanized Computing, 2017.
 
 
 </ul>
-</hr>
 
 </section>
 
