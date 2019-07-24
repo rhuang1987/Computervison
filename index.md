@@ -118,16 +118,14 @@ IEEE Signal Processing Letters (<strong>SPL</strong>), 2019.
 Rui Huang, Wei Feng*, Mingyuan Fan, Liang Wan, Jizhou Sun，<br>	
 Neurocomputing, 2018.  
 <a href="https://www.sciencedirect.com/science/article/pii/S0925231218300602" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a></li>
+<a href="https://pan.baidu.com/s/1SmpgGOuqJxWLTGd2j4r8OQ" target="_blank"><font color="#E74C3C">[Code 提取码：6qby ]</font></a></li>
 
 
 <li>
 <strong>"Color Feature Reinforcement for Cosaliency Detection Without Single Saliency Residuals"</strong>, <br> 
 Rui Huang, Wei Feng*, Jizhou Sun, <br>
 IEEE Signal Processing Letters (<strong>SPL</strong>), 2017. 
-<a href="" target="_blank">[PDF]</a> 
-<a href=链接：https://pan.baidu.com/s/1SmpgGOuqJxWLTGd2j4r8OQ" target="_blank">[Code 提取码：6qby ]</a>
+<a href="https://www.researchgate.net/publication/314437340_Color_Feature_Reinforcement_for_Co-Saliency_Detection_without_Single_Saliency_Residuals" target="_blank">[PDF]</a> 
 </li>
 
 
