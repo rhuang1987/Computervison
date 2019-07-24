@@ -70,9 +70,9 @@ Welcome to send me your detailed resume!
 <strong>"Learning Dynamic Siamese Network for Visual Object Tracking"</strong>, <br> 
 Qing Guo, Wei Feng*, Ce Zhou, <ud>Rui Huang</ud>, Liang Wan, Song Wang,  <br>
 IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2018. 
-<a href="" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-<a href="" target="_blank"><font color="#E74C3C">[Code]</font></a>
+<a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Learning_Dynamic_Siamese_ICCV_2017_paper.pdf" target="_blank">[PDF]</a> 
+<a href="https://github.com/tsingqguo/DSiam" target="_blank">[Project]</a>
+<a href="https://github.com/tsingqguo/DSiam" target="_blank"><font color="#E74C3C">[Code]</font></a>
 </li>
 
 <li> 
