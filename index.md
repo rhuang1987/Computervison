@@ -51,7 +51,7 @@ Welcome to send me your detailed resume!
 <a id="new-page" class="anchor" href="#new-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Recent News:</h3>
 
 <ul>
-<li>2019-07: Waiting to update.</li>
+<li>2019-08-02: One paper has been accepted by IEEE ACCESS.</li>
 
 </ul>
 
