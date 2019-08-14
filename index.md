@@ -67,6 +67,14 @@ Welcome to send me your detailed resume!
 <ul>
 
 <li>
+<strong>"Image Blur Classification and Unintentional Blur Removal"</strong>, <br> 
+Rui Huang, Mingyuan Fan, Yan Xing, Yaobin Zou <br>
+IEEE International Conference on Computer Vision (<strong>IEEE ACCESS</strong>), 2019. 
+<a href="https://ieeexplore.ieee.org/document/8782107" target="_blank">[PDF]</a> 
+<a href="" target="_blank">[Project]</a>
+</li>
+
+<li>
 <strong>"Learning Dynamic Siamese Network for Visual Object Tracking"</strong>, <br> 
 Qing Guo, Wei Feng*, Ce Zhou, <ud>Rui Huang</ud>, Liang Wan, Song Wang,  <br>
 IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2018. 
