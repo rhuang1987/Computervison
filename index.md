@@ -69,7 +69,7 @@ Welcome to send me your detailed resume!
 <li>
 <strong>"Image Blur Classification and Unintentional Blur Removal"</strong>, <br> 
 Rui Huang, Mingyuan Fan, Yan Xing, Yaobin Zou <br>
-IEEE International Conference on Computer Vision (<strong>IEEE ACCESS</strong>), 2019. 
+IEEE ACCESS, 2019. 
 <a href="https://ieeexplore.ieee.org/document/8782107" target="_blank">[PDF]</a> 
 <a href="" target="_blank">[Project]</a>
 </li>
