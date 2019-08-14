@@ -66,13 +66,6 @@ Welcome to send me your detailed resume!
 
 <ul>
 
-<li>
-<strong>"Image Blur Classification and Unintentional Blur Removal"</strong>, <br> 
-Rui Huang, Mingyuan Fan, Yan Xing, Yaobin Zou <br>
-IEEE ACCESS, 2019. 
-<a href="https://ieeexplore.ieee.org/document/8782107" target="_blank">[PDF]</a> 
-<a href="" target="_blank">[Project]</a>
-</li>
 
 <li>
 <strong>"Learning Dynamic Siamese Network for Visual Object Tracking"</strong>, <br> 
@@ -113,6 +106,13 @@ IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015
 <h4><ud>Journal paper:</ud></h4>
 
 <ul>
+<li>
+<strong>"Image Blur Classification and Unintentional Blur Removal"</strong>, <br> 
+Rui Huang, Mingyuan Fan, Yan Xing, Yaobin Zou <br>
+IEEE ACCESS, 2019. 
+<a href="https://ieeexplore.ieee.org/document/8782107" target="_blank">[PDF]</a> 
+<a href="" target="_blank">[Project]</a>
+</li>
 
 <li> 
 <strong>"RGB-D Salient Object Detection by a CNN With Multiple Layers Fusion"</strong>, <br>
