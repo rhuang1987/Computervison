@@ -106,6 +106,16 @@ IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015
 <h4><ud>Journal paper:</ud></h4>
 
 <ul>
+	
+<li>
+<strong>"Learning to grade deterioration for ancient murals"</strong>, <br> 
+Kun Qian, Pengyu Zhang, Rui Huang, Wei Feng, Jizhou Sun <br>
+Journal of Ambient Intelligence and Humanized Computing, 2019. 
+<a href="http://link.springer.com/article/10.1007/s12652-019-01487-9" target="_blank">[PDF]</a> 
+</li>
+	
+	
+	
 <li>
 <strong>"Image Blur Classification and Unintentional Blur Removal"</strong>, <br> 
 Rui Huang, Mingyuan Fan, Yan Xing, Yaobin Zou <br>
