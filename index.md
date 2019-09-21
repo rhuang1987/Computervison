@@ -109,7 +109,7 @@ IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015
 	
 <li>
 <strong>"Learning to grade deterioration for ancient murals"</strong>, <br> 
-Kun Qian, Pengyu Zhang, Rui Huang, Wei Feng, Jizhou Sun <br>
+Kun Qian, Pengyu Zhang, Rui Huang*, Wei Feng, Jizhou Sun <br>
 Journal of Ambient Intelligence and Humanized Computing, 2019. 
 <a href="http://link.springer.com/article/10.1007/s12652-019-01487-9" target="_blank">[PDF]</a> 
 </li>
