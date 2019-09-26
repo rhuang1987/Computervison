@@ -66,11 +66,11 @@ Welcome to send me your detailed resume!
 
 <ul>
 
-Predicting Scientific Impact via Heterogeneous Academic Network Embedding
+
 
 
 <li>
-<strong>"Learning Dynamic Siamese Network for Visual Object Tracking"</strong>, <br> 
+<strong>"Predicting Scientific Impact via Heterogeneous Academic Network Embedding"</strong>, <br> 
 Chunjing Xiao, Jianing Han, Wei Fan, Senzhang Wang, Rui Huang and Yuxiang Zhang  <br>
  (<strong>PRICAI </strong>), 2019. 
 [PDF]</a> 
