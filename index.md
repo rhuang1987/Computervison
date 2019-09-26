@@ -106,7 +106,16 @@ IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015
 <h4><ud>Journal paper:</ud></h4>
 
 <ul>
-	
+
+
+<li>
+<strong>"Exemplar-based image saliency and co-saliency detection"</strong>, <br> 
+RuiHuang, WeiFeng, Zezheng Wang, Yan Xing, Yaobin Zou <br>
+Neurocomputing, 2019. 
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> 
+</li>
+
+
 <li>
 <strong>"Learning to grade deterioration for ancient murals"</strong>, <br> 
 Kun Qian, Pengyu Zhang, Rui Huang*, Wei Feng, Jizhou Sun <br>
