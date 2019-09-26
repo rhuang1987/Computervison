@@ -62,62 +62,13 @@ Welcome to send me your detailed resume!
 <h3>
 <a id="Paper-pages" class="anchor" href="#Paper-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Publications: </h3>
 
-<h4><ud>Conference paper:</ud></h4>
+
+<h4><ud>Journal & Conference papers:</ud></h4>
 
 <ul>
 
 
-
-
-<li>
-<strong>"Predicting Scientific Impact via Heterogeneous Academic Network Embedding"</strong>, <br> 
-Chunjing Xiao, Jianing Han, Wei Fan, Senzhang Wang, Rui Huang and Yuxiang Zhang  <br>
- (<strong>PRICAI </strong>), 2019. 
-[PDF]</a> 
-</li>
-
-
-<li>
-<strong>"Learning Dynamic Siamese Network for Visual Object Tracking"</strong>, <br> 
-Qing Guo, Wei Feng*, Ce Zhou, <ud>Rui Huang</ud>, Liang Wan, Song Wang,  <br>
-IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2018. 
-<a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Learning_Dynamic_Siamese_ICCV_2017_paper.pdf" target="_blank">[PDF]</a> 
-<a href="https://github.com/tsingqguo/DSiam" target="_blank">[Project]</a>
-<a href="https://github.com/tsingqguo/DSiam" target="_blank"><font color="#E74C3C">[Code]</font></a>
-</li>
-
-<li> 
-<strong>"Learning to Detect Fine-Grained Change under Variant Imaging Conditions"</strong>, <br>
-Rui Huang, Wei Feng*, Zezheng Wang, Minyuan Fan, Liang Wan, Jizhou Sun, <br>	
-International Conference on Computer Vision Workshop on E-Heritage, 2017.  
-<a href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w42/Huang_Learning_to_Detect_ICCV_2017_paper.pdf" target="_blank">[PDF]</a> </li>
-
-
-<li>
-<strong>"Exemplar based image saliency object detection"</strong>, <br> 
-Zezheng Wang, <ud>Rui Huang*</ud>, Liang Wan, Wei Feng,  <br>
-IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2017. 
-<a href="https://www.researchgate.net/publication/312146344_Exemplar_based_Image_Salient_Object_Detection" target="_blank">[PDF]</a> 
-</li>
-
-<li> 
-<strong>"Saliency and co-saliency detection by low-rank multiscale fusion"</strong>, <br>
-Rui Huang, Wei Feng*, Jizhou Sun,<br>	
-IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015.  
-<a href="https://www.researchgate.net/publication/273766216_Saliency_and_Co-Saliency_Detection_by_Low-Rank_Multiscale_Fusion" target="_blank">[PDF]</a> 
-</li>
-
-
-</ul>
-
-
-<hr />
-
-<h4><ud>Journal paper:</ud></h4>
-
-<ul>
-
-
+<strong>2019</strong>
 <li>
 <strong>"Exemplar-based image saliency and co-saliency detection"</strong>, <br> 
 RuiHuang, WeiFeng, Zezheng Wang, Yan Xing, Yaobin Zou <br>
@@ -150,6 +101,15 @@ IEEE Signal Processing Letters (<strong>SPL</strong>), 2019.
 <a href="https://ieeexplore.ieee.org/document/8638984" target="_blank">[PDF]</a> 
 </li>
 
+<li>
+<strong>"Predicting Scientific Impact via Heterogeneous Academic Network Embedding"</strong>, <br> 
+Chunjing Xiao, Jianing Han, Wei Fan, Senzhang Wang, Rui Huang and Yuxiang Zhang  <br>
+ (<strong>PRICAI </strong>), 2019. 
+[PDF]</a> 
+</li>
+
+
+<strong>2018</strong>
 <li> 
 <strong>"Multiscale Blur Detection by Learning Discriminative Deep Features"</strong>, <br>
 Rui Huang, Wei Feng*, Mingyuan Fan, Liang Wan, Jizhou Sun，<br>	
@@ -158,6 +118,17 @@ Neurocomputing, 2018.
 <a href="https://pan.baidu.com/s/1SmpgGOuqJxWLTGd2j4r8OQ" target="_blank"><font color="#E74C3C">[Code 提取码：6qby ]</font></a></li>
 
 
+<li>
+<strong>"Learning Dynamic Siamese Network for Visual Object Tracking"</strong>, <br> 
+Qing Guo, Wei Feng*, Ce Zhou, <ud>Rui Huang</ud>, Liang Wan, Song Wang,  <br>
+IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2018. 
+<a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Guo_Learning_Dynamic_Siamese_ICCV_2017_paper.pdf" target="_blank">[PDF]</a> 
+<a href="https://github.com/tsingqguo/DSiam" target="_blank">[Project]</a>
+<a href="https://github.com/tsingqguo/DSiam" target="_blank"><font color="#E74C3C">[Code]</font></a>
+</li>
+
+
+<strong>Before 2017</strong>
 <li>
 <strong>"Color Feature Reinforcement for Cosaliency Detection Without Single Saliency Residuals"</strong>, <br> 
 Rui Huang, Wei Feng*, Jizhou Sun, <br>
@@ -172,6 +143,22 @@ Rui Huang, Wei Feng*, Mingyuan Fan, Qing Guo, Jizhou Sun, <br>
 Journal of Ambient Intelligence and Humanized Computing, 2017. 
 <a href="https://link.springer.com/article/10.1007%2Fs12652-017-0656-4" target="_blank">[PDF]</a> 
 </li>
+
+<li> 
+<strong>"Learning to Detect Fine-Grained Change under Variant Imaging Conditions"</strong>, <br>
+Rui Huang, Wei Feng*, Zezheng Wang, Minyuan Fan, Liang Wan, Jizhou Sun, <br>	
+International Conference on Computer Vision Workshop on E-Heritage, 2017.  
+<a href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w42/Huang_Learning_to_Detect_ICCV_2017_paper.pdf" target="_blank">[PDF]</a> </li>
+
+
+<li>
+<strong>"Exemplar based image saliency object detection"</strong>, <br> 
+Zezheng Wang, <ud>Rui Huang*</ud>, Liang Wan, Wei Feng,  <br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2017. 
+<a href="https://www.researchgate.net/publication/312146344_Exemplar_based_Image_Salient_Object_Detection" target="_blank">[PDF]</a> 
+</li>
+
+
 
 <li>
 <strong>"基于图像分析的室外文物病害演变监测方法与应用实例"</strong>, <br> 
@@ -188,6 +175,14 @@ Journal of Ambient Intelligence and Humanized Computing, 2017.
 
 </li>
 
+
+
+<li> 
+<strong>"Saliency and co-saliency detection by low-rank multiscale fusion"</strong>, <br>
+Rui Huang, Wei Feng*, Jizhou Sun,<br>	
+IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>), 2015.  
+<a href="https://www.researchgate.net/publication/273766216_Saliency_and_Co-Saliency_Detection_by_Low-Rank_Multiscale_Fusion" target="_blank">[PDF]</a> 
+</li>
 
 </ul>
 
