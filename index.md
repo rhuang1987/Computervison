@@ -109,7 +109,7 @@ Chunjing Xiao, Jianing Han, Wei Fan, Senzhang Wang, Rui Huang and Yuxiang Zhang 
 </li>
 
 
-<strong>2018</strong>
+<br><strong>2018</strong>
 <li> 
 <strong>"Multiscale Blur Detection by Learning Discriminative Deep Features"</strong>, <br>
 Rui Huang, Wei Feng*, Mingyuan Fan, Liang Wan, Jizhou Sun，<br>	
@@ -128,7 +128,7 @@ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2018.
 </li>
 
 
-<strong>Before 2017</strong>
+<br><strong>Before 2017</strong>
 <li>
 <strong>"Color Feature Reinforcement for Cosaliency Detection Without Single Saliency Residuals"</strong>, <br> 
 Rui Huang, Wei Feng*, Jizhou Sun, <br>
