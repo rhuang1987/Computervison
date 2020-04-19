@@ -51,7 +51,7 @@ Welcome to send me your detailed resume!
 <a id="new-page" class="anchor" href="#new-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Recent News:</h3>
 
 <ul>
-<li>2019-08-02: One paper has been accepted by IEEE SPL.</li>
+<li>2019-08-02: One paper has been accepted by IEEE Signal Processing Letters (SPL).</li>
 
 </ul>
 
@@ -71,8 +71,8 @@ Welcome to send me your detailed resume!
 <li>
 <strong>"Triple-complementary Network for RGB-D Salient Object Detection"</strong>, <br> 
 RuiHuang, Yan Xing, Yaobin Zou <br>
-IEEE SPL, 2020. Comming soon!
-%<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> 
+IEEE Signal Processing Letters (SPL), 2020. Comming soon!
+<!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
 </li>
 
 
