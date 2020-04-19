@@ -41,7 +41,7 @@ Welcome to send me your detailed resume!
 <h3>
 <a id="biography-page" class="anchor" href="#biography-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Brief Bio: </h3>  
 
-<p>I received the PhD from the Tianjin university under the supervised of Professor Wei Feng and Professor Jizhou Sun. Currently, I am a lecturer at the Department of Computer Science and Technology in the Civil Aviation University of China.   My research interests include computer vision, image processing, machine learning and visual surveillance.</p>
+<p>I received the PhD from the Tianjin university under the supervised of Professor Wei Feng and Professor Jizhou Sun. Currently, I am a lecturer at the College of Computer Science and Technology in the Civil Aviation University of China.   My research interests include computer vision, image processing, machine learning and visual surveillance.</p>
 
 
 
