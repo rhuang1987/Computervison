@@ -75,6 +75,13 @@ IEEE Signal Processing Letters (SPL), 2020. Comming soon!
 <!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
 </li>
 
+<li>
+<strong>"Multi-scale deep features fusion based change detection"</strong>, <br> 
+Fan Wei, Zhou Mo, and Rui Huang  <br>
+ Journal of Image and Graphics, 2020. 
+[PDF]</a> 
+</li>
+
 
 <br><strong>2019</strong>
 <li>
