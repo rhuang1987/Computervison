@@ -67,7 +67,7 @@ Welcome to send me your detailed resume!
 
 <ul>
 
-<strong>2020</strong>
+<br><strong>2020</strong>
 <li>
 <strong>"Triple-complementary Network for RGB-D Salient Object Detection"</strong>, <br> 
 RuiHuang, Yan Xing, Yaobin Zou <br>
@@ -76,7 +76,7 @@ IEEE Signal Processing Letters (SPL), 2020. Comming soon!
 </li>
 
 
-<strong>2019</strong>
+<br><strong>2019</strong>
 <li>
 <strong>"Exemplar-based image saliency and co-saliency detection"</strong>, <br> 
 RuiHuang, WeiFeng, Zezheng Wang, Yan Xing, Yaobin Zou <br>
