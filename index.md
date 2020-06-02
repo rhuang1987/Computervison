@@ -67,7 +67,15 @@ Welcome to send me your detailed resume!
 
 <ul>
 
+
 <br><strong>2020</strong>
+<li>
+<strong>"Defocus blur detection by fusing multiscale deep features with Conv-LSTM"</strong>, <br> 
+Hongjun Heng, Hebing Ye, RuiHuang<br>
+IEEE ACCESS, 2020. Comming soon!
+<!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
+</li>
+
 <li>
 <strong>"Triple-complementary Network for RGB-D Salient Object Detection"</strong>, <br> 
 RuiHuang, Yan Xing, Yaobin Zou <br>
