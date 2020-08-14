@@ -72,8 +72,8 @@ Welcome to send me your detailed resume!
 <li>
 <strong>"Defocus blur detection by fusing multiscale deep features with Conv-LSTM"</strong>, <br> 
 Hongjun Heng, Hebing Ye, RuiHuang*<br>
-IEEE ACCESS, 2020. Comming soon!
-<!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
+IEEE ACCESS, 2020.
+<a href="https://www.researchgate.net/publication/341561504_Defocus_blur_detection_by_fusing_multiscale_deep_features_with_Conv-LSTM" target="_blank">[PDF]</a>
 </li>
 
 
