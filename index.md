@@ -79,8 +79,8 @@ IEEE ACCESS, 2020.
 
 <li>
 <strong>"卷积神经网络低层特征辅助的图像实例分割方法"</strong>, <br> 
-樊玮，刘挺，黄睿*，郭青，张宝<br>
-计算机应用, 2020. Comming soon!
+樊玮，刘挺，黄睿，郭青，张宝，张宁 <br>
+   计算机科学，2020.
 <!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
 </li>
 
