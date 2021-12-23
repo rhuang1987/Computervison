@@ -84,7 +84,6 @@ IET Signal Processing, 2022.
 <a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202108120000004" target="_blank">[PDF]</a>
 </li>
 
-	
 <li>
 <strong>"Change detection with cross enhancement of high- and low-level change-related features"</strong>, <br> 
 Rui Huang, Yan Xing, Mo Zhou, Ruofei Wang <br>
@@ -99,8 +98,34 @@ Chinese Journal of Aeronautics, 2021.
 <a href="https://www.sciencedirect.com/science/article/pii/S1000936121004283" target="_blank">[PDF]</a>
 </li>
 
+<li>
+<strong>"Change detection with various combinations of fluid pyramid integration networks"</strong>, <br> 
+Rui Huang, Mo Zhou, Yan Xing, Yaobin Zou, Wei Fan <br>
+Neurocomputing, 2021.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221000515" target="_blank">[PDF]</a>
+</li>
+	
+	
+<li>
+<strong>"由粗到精的多尺度散焦模糊检测"</strong>, <br> 
+衡红军,叶何斌,周末,黄睿<br>
+中国图象图形学报, 2021.
+<a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20210309&flag=1" target="_blank">[PDF]</a>
+</li>
+
+
 
 <br><strong>2020</strong>
+	
+	
+<li>
+<strong>"Change detection with absolute difference of multiscale deep features"</strong>, <br> 
+RuiHuang, MoZhou, QiangZhao, YaobinZou<br>
+Neurocomputing, 2020.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122031290X" target="_blank">[PDF]</a>
+</li>
+	
+	
 <li>
 <strong>"Defocus blur detection by fusing multiscale deep features with Conv-LSTM"</strong>, <br> 
 Hongjun Heng, Hebing Ye, RuiHuang*<br>
@@ -116,6 +141,12 @@ IEEE ACCESS, 2020.
 <!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
 </li>
 
+<li>
+<strong>"多尺度深度特征融合的变化检测"</strong>, <br> 
+樊玮,周末,黄睿(<br>
+中国图象图形学报, 2020.
+<a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200403&flag=1" target="_blank">[PDF]</a>
+</li>
 
 <li>
 <strong>"Triple-complementary Network for RGB-D Salient Object Detection"</strong>, <br> 
