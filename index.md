@@ -94,7 +94,7 @@ IET Image Processing, 2021.
 	
 <li>
 <strong>"Prior-guided GAN-based interactive airplane engine damage image augmentation method"</strong>, <br> 
-Rui Huang, Duan Bokun, Zhang Yuxiang, Fan We <br>
+Rui Huang, Duan Bokun, Zhang Yuxiang, Fan Wei <br>
 Chinese Journal of Aeronautics, 2021.
 <a href="https://www.sciencedirect.com/science/article/pii/S1000936121004283" target="_blank">[PDF]</a>
 </li>
