@@ -68,7 +68,7 @@ Welcome to send me your detailed resume!
 
 <ul>
 
-<br><strong>2022</strong>
+<br><strong>2021-2022</strong>
 <li>
 <strong>"Selecting change image for efficient change detection"</strong>, <br> 
 Rui Huang, Ruofei Wang, Yuxiang Zhang, Yan Xing, Wei Fan and KaiLeung Yung <br>
@@ -78,7 +78,20 @@ IET Signal Processing, 2022.
 </li>
 
 	
+<li>
+<strong>"Change detection with cross enhancement of high- and low-level change-related features"</strong>, <br> 
+Rui Huang, Yan Xing, Mo Zhou, Ruofei Wang <br>
+IET Image Processing, 2021.
+<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12334" target="_blank">[PDF]</a>
+</li>
 	
+<li>
+<strong>"Prior-guided GAN-based interactive airplane engine damage image augmentation method"</strong>, <br> 
+RuiHUANG,BokunDUAN,YuxiangZHANG, WeiFAN <br>
+Chinese Journal of Aeronautics, 2021.
+<a href="https://www.sciencedirect.com/science/article/pii/S1000936121004283" target="_blank">[PDF]</a>
+</li>
+
 
 <br><strong>2020</strong>
 <li>
