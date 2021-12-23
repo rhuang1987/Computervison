@@ -159,7 +159,7 @@ IEEE ACCESS, 2020.
 	
 <li>
 <strong>"多尺度深度特征融合的变化检测"</strong>, <br> 
-樊玮,周末,黄睿(<br>
+樊玮,周末,黄睿 <br>
 中国图象图形学报, 2020.
 <a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200403&flag=1" target="_blank">[PDF]</a>
 </li>
