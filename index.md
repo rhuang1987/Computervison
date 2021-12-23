@@ -79,9 +79,9 @@ IET Signal Processing, 2022.
 
 <li>
 <strong>"检测器和分类器级联的飞机发动机损伤检测"</strong>, <br> 
-Rui Huang, Duan Bokun, Fan Wei <br>
+黄睿,段博坤,陈望,叶清池,彭洪健,马孝汶,樊玮<br>
 中国图象图形学报, 2021.
-<a href="" target="_blank">[PDF]</a>
+<a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202108120000004" target="_blank">[PDF]</a>
 </li>
 
 	
