@@ -68,6 +68,17 @@ Welcome to send me your detailed resume!
 
 <ul>
 
+<br><strong>2022</strong>
+<li>
+<strong>"Selecting change image for efficient change detection"</strong>, <br> 
+Rui Huang, Ruofei Wang, Yuxiang Zhang, Yan Xing, Wei Fan and KaiLeung Yung <br>
+IET Signal Processing, 2022.
+<a href="" target="_blank">[PDF]</a>
+<a href="https://github.com/rfww/EfficientChangeDetection.git" target="_blank"><font color="#E74C3C">[Code]</font></a></li>
+</li>
+
+	
+	
 
 <br><strong>2020</strong>
 <li>
