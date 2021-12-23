@@ -13,7 +13,7 @@
 
 <section>
 
-<h1> Rui Huang (黄睿) </h1>   
+<h1> Rui Huang (黄睿)
 <h2> 中国民航大学，计算机科学与技术学院 </h2> 
 	
 <p>
