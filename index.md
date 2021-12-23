@@ -14,7 +14,8 @@
 <section>
 
 <h1> Rui Huang (黄睿) </h1>   
-
+<h2> 中国民航大学，计算机科学与技术学院 </h2> 
+	
 <p>
 <strong> </strong><br>
 The Department of Computer Science and Technology, Civil Aviation University of China<br>
@@ -51,8 +52,7 @@ Welcome to send me your detailed resume!
 <a id="new-page" class="anchor" href="#new-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Recent News:</h3>
 
 <ul>
-<li>2021-1-15: Two papers have been accepted by Neurocomputing.</li>
-<li>2019-08-02: One paper has been accepted by IEEE Signal Processing Letters (SPL).</li>
+<li>2022-12-23: We add more papers.</li>
 
 </ul>
 
