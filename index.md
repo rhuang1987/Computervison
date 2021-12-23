@@ -77,6 +77,13 @@ IET Signal Processing, 2022.
 <a href="https://github.com/rfww/EfficientChangeDetection.git" target="_blank"><font color="#E74C3C">[Code]</font></a></li>
 </li>
 
+<li>
+<strong>"检测器和分类器级联的飞机发动机损伤检测"</strong>, <br> 
+Rui Huang, Duan Bokun, Fan Wei <br>
+中国图象图形学报, 2021.
+<a href="" target="_blank">[PDF]</a>
+</li>
+
 	
 <li>
 <strong>"Change detection with cross enhancement of high- and low-level change-related features"</strong>, <br> 
@@ -87,7 +94,7 @@ IET Image Processing, 2021.
 	
 <li>
 <strong>"Prior-guided GAN-based interactive airplane engine damage image augmentation method"</strong>, <br> 
-RuiHUANG,BokunDUAN,YuxiangZHANG, WeiFAN <br>
+Rui Huang, Duan Bokun, Zhang Yuxiang, Fan We <br>
 Chinese Journal of Aeronautics, 2021.
 <a href="https://www.sciencedirect.com/science/article/pii/S1000936121004283" target="_blank">[PDF]</a>
 </li>
