@@ -113,8 +113,16 @@ Neurocomputing, 2021.
 <a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20210309&flag=1" target="_blank">[PDF]</a>
 </li>
 
+<li>
+<strong>"航空发动机损伤图像的二分类到多分类递进式检测网络"</strong>, <br> 
+樊玮, 李晨炫, 邢艳, 黄睿, 彭洪健.<br>
+计算机应用, 2021.
+<a href="http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20210309&flag=1" target="_blank">[PDF]</a>
+</li>
 
-
+	
+	
+	
 <br><strong>2020</strong>
 	
 	
@@ -141,6 +149,14 @@ IEEE ACCESS, 2020.
 <!--<a href="https://www.sciencedirect.com/science/article/pii/S0925231219312718?dgcid=rss_sd_all" target="_blank">[PDF]</a> -->
 </li>
 
+<li>
+<strong>"基于风格迁移的交互式航空发动机孔探图像扩展方法"</strong>, <br> 
+樊玮, 段博坤, 黄睿, 刘挺, 张宁 <br>
+   算机应用，2020.
+<!--<a href="http://www.joca.cn/CN/abstract/abstract24173.shtml" target="_blank">[PDF]</a> -->
+</li>
+
+	
 <li>
 <strong>"多尺度深度特征融合的变化检测"</strong>, <br> 
 樊玮,周末,黄睿(<br>
